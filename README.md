@@ -51,3 +51,8 @@ Here’s the step-by-step process for setting up your Bluetooth Beacon app with 
    - Scan the QR code shown in your terminal using the Expo Go app to preview the app on your mobile device.
 
 Your Bluetooth Beacon app should now be up and running on your device! Let me know if you need any further assistance with this process.
+
+
+
+###VISIT HERE TO CHECK ON UPDATES:
+https://docs.google.com/document/d/1z-XM3qZN5v_4TT16vxJ4v7R_nuGoc7uP/edit?usp=drive_link&ouid=102000372765361207714&rtpof=true&sd=true
