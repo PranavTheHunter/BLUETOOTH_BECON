@@ -52,7 +52,17 @@ Here’s the step-by-step process for setting up your Bluetooth Beacon app with 
 
 Your Bluetooth Beacon app should now be up and running on your device! Let me know if you need any further assistance with this process.
 
-###VISIT HERE TO CHECK ON UPDATES:
+# SERVER
+
+Download the whole zip go in server file and type 
+"node install"
+
+after the complete installation type
+"npm start"
+
+Your server has been started!
+
+VISIT HERE TO CHECK ON UPDATES:
 https://docs.google.com/document/d/1z-XM3qZN5v_4TT16vxJ4v7R_nuGoc7uP/edit?usp=drive_link&ouid=102000372765361207714&rtpof=true&sd=true
 
 **progress**
