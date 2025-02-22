@@ -52,12 +52,10 @@ Here’s the step-by-step process for setting up your Bluetooth Beacon app with 
 
 Your Bluetooth Beacon app should now be up and running on your device! Let me know if you need any further assistance with this process.
 
-
-
 ###VISIT HERE TO CHECK ON UPDATES:
 https://docs.google.com/document/d/1z-XM3qZN5v_4TT16vxJ4v7R_nuGoc7uP/edit?usp=drive_link&ouid=102000372765361207714&rtpof=true&sd=true
 
 **curent progress**
-
+*16th feb*
 ![Image](https://github.com/user-attachments/assets/3994bb11-87ed-4ac0-a198-529468a0eda9)
 
