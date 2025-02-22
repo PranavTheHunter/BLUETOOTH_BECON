@@ -1,12 +1,12 @@
 import matplotlib.pyplot as plt
 
 # Phase names
-phases = ["Research & Development", "Frontend Development", "Database Setup & Model Making", "Remaining Phases"]
+phases = ["Research & Development", "Frontend Development", "Database Setup & Model Making", "Backend", "Testing" , "Improvements"]
 # Progress percentage
-progress = [100, 70, 10, 0]
+progress = [100, 100, 100, 0, 0, 0]
 
 plt.figure(figsize=(8,5))
-plt.barh(phases, progress, color=['green', 'orange', 'red', 'gray'])
+plt.barh(phases, progress, color=['green', 'orange', 'red', 'gray','blue','voilet','yellow'])
 plt.xlabel("Completion Percentage")
 plt.title("Software Project Progress Analysis")
 plt.xlim(0, 100)
