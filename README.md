@@ -62,15 +62,12 @@ after the complete installation type
 
 Your server has been started!
 
-VISIT HERE TO CHECK ON UPDATES:
-https://docs.google.com/document/d/1z-XM3qZN5v_4TT16vxJ4v7R_nuGoc7uP/edit?usp=drive_link&ouid=102000372765361207714&rtpof=true&sd=true
-
-**progress**
+# PROGRESS
 
    *16th feb*
 ![Image](https://github.com/user-attachments/assets/3994bb11-87ed-4ac0-a198-529468a0eda9)
 
   *22 feb*
- ![Image](https://github.com/user-attachments/assets/673006d4-3764-4fa2-a01e-f98d37d2b157)
+![Image](https://github.com/user-attachments/assets/2c2539f1-9450-4c63-9a27-73db6f6fd41d)
 
 
